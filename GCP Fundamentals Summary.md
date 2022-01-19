@@ -1,0 +1,6 @@
+![Compute-Summary](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Summary-Compute.png)
+![Summary-LoadBalancing](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Summary-LoadBalancing.png)
+![Summary-Interconnect](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Summary-Interconnect.png)
+![Cloud Storage Comparisons](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Cloud Storage Comparisons.png)
+![Cloud Storage Tech_Comparisons](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Cloud_Storage_Tech_Comparisons.png)
+![Summary-Storage Classes](/Users/matolaga/Mathan/Git/GCP/src/main/resources/Summary-Storage Classes.png)
